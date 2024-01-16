@@ -63,7 +63,6 @@ export function NoisFooter() {
         </div>
         <div className="mt-8 md:order-1 md:mt-0">
           <div className="text-left text-xs leading-5 text-gray-500">
-            *Eligible users have a 1/3 chance of winning. <br />
             {`Nois is a blockchain that provides reliable randomness to the rest of the blockchains via IBC`}
           </div>
         </div>
